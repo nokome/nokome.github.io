@@ -1,0 +1,66 @@
+body {
+	background: #222;
+	font-family: Marcellus, sans;
+	font-size: 1.1rem;
+	color: #B1B0B0;
+}
+
+a {
+	text-decoration: none;
+	color: #8075B9;
+}
+
+main {
+	max-width: 35em;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 1em;
+}
+
+.header {
+	color: #D8D8D8;
+	padding: 1em 0 1em 0;
+}
+
+.header p {
+	margin: 0.5em;
+}
+
+.header .name {
+	font-size: 1.5em;
+}
+
+.header .me {
+	width: 5em;
+	height: 5em;
+	border-radius: 50%;
+}
+
+.header .email {
+	font-size: 0.9em;
+}
+
+h1 {
+	font-size: 1.1em;
+	color: #CECECE;
+}
+
+.me {
+	height: 8em;
+	border-radius: 50%;
+	float: left;
+	margin-right: 1em;
+}
+
+.story {
+	font-size: 0.85em;
+}
+
+.story h2 {
+	font-size: 1.1em;
+	color: #CCC;
+}
+
+.story .copyright {
+	float: right;
+}
